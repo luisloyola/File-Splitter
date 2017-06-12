@@ -3,7 +3,7 @@
 ---
 ## Acerca del programa
 
-(Se llenara mas adelante). Para mas info pinche [aqui](http://es.wikipedia.org/wiki/RAID#RAID_5 "Raid 5")
+Es una implementación de RAID 5 utilizando pipes y procesos en paralelo. Permite dividir y recuperar archivos. Para mas info pinche [aqui](http://es.wikipedia.org/wiki/RAID#RAID_5 "Raid 5")
 
 ## Compilacion
 
